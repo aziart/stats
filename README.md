@@ -6,15 +6,15 @@
 
 ## Section 2: Visualizing data
 
-![stats_1.jpg](Probability%20&%20Statistics%20by%20Krista%20King%2046c7df8c9ffc4ab7ad77dd70e3ccff30/stats_1.jpg)
+![stats_1.jpg](imgs/stats_1.jpg)
 
-![stats_2.jpg](Probability%20&%20Statistics%20by%20Krista%20King%2046c7df8c9ffc4ab7ad77dd70e3ccff30/stats_2.jpg)
+![stats_2.jpg](imgs/stats_2.jpg)
 
-![stats_3.jpg](Probability%20&%20Statistics%20by%20Krista%20King%2046c7df8c9ffc4ab7ad77dd70e3ccff30/stats_3.jpg)
+![stats_3.jpg](imgs/stats_3.jpg)
 
-![stats_4.jpg](Probability%20&%20Statistics%20by%20Krista%20King%2046c7df8c9ffc4ab7ad77dd70e3ccff30/stats_4.jpg)
+![stats_4.jpg](imgs/stats_4.jpg)
 
-![stats_5.jpg](Probability%20&%20Statistics%20by%20Krista%20King%2046c7df8c9ffc4ab7ad77dd70e3ccff30/stats_5.jpg)
+![stats_5.jpg](imgs/stats_5.jpg)
 
 ## Section 3: Analyzing data
 
