@@ -16,6 +16,10 @@
 
 ![stats_5.jpg](imgs/stats_5.jpg)
 
+![stats_6.jpg](imgs/stats_5.jpg)
+
+![stats_7.jpg](imgs/stats_5.jpg)
+
 ## Section 3: Analyzing data
 
 ## Section 4: Data distributions
