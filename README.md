@@ -16,9 +16,9 @@
 
 ![stats_5.jpg](imgs/stats_5.jpg)
 
-![stats_6.jpg](imgs/stats_5.jpg)
+![stats_6.jpg](imgs/stats_6.jpg)
 
-![stats_7.jpg](imgs/stats_5.jpg)
+![stats_7.jpg](imgs/stats_7.jpg)
 
 ## Section 3: Analyzing data
 
