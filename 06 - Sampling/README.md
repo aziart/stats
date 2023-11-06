@@ -8,4 +8,4 @@
 
 ![stats_18.jpg](../imgs/stats_18.jpg)
 
-
+[back to main](https://github.com/aziart/stats)

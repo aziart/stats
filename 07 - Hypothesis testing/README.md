@@ -7,3 +7,5 @@
 ![stats_21.jpg](../imgs/stats_21.jpg)
 
 ![stats_22.jpg](../imgs/stats_22.jpg)
+
+[back to main](https://github.com/aziart/stats)

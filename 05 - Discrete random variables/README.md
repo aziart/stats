@@ -4,4 +4,4 @@
 
 ![stats_14.jpg](../imgs/stats_14.jpg)
 
-
+[back to main](https://github.com/aziart/stats)
