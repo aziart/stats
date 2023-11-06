@@ -1,39 +1,19 @@
-# Probability & Statistics by Krista King
+## Probability & Statistics
+### SYLLABUS
 
-# SYLLABUS
+`[Section 1: Visualizing data]()`
 
-## Section 1: Getting started
+`[Section 2: Analyzing data]()`
 
-## Section 2: Visualizing data
+`[Section 3: Data distributions]()`
 
-![stats_1.jpg](imgs/stats_1.jpg)
+`[Section 4: Probability]()`
 
-![stats_2.jpg](imgs/stats_2.jpg)
+`[Section 5: Discrete random variables]()`
 
-![stats_3.jpg](imgs/stats_3.jpg)
+`[Section 6: Sampling]()`
 
-![stats_4.jpg](imgs/stats_4.jpg)
+`[Section 7: Hypothesis testing]()`
 
-![stats_5.jpg](imgs/stats_5.jpg)
+`[Section 8: Regression]()`
 
-![stats_6.jpg](imgs/stats_6.jpg)
-
-![stats_7.jpg](imgs/stats_7.jpg)
-
-## Section 3: Analyzing data
-
-## Section 4: Data distributions
-
-## Section 5: Probability
-
-## Section 6: Discrete random variables
-
-## Section 7: Sampling
-
-## Section 8: Hypothesis testing
-
-## Section 9: Regression
-
-## Section 10: Final exam and wrap-up
-
-##
